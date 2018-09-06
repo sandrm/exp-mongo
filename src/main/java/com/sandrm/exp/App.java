@@ -72,6 +72,9 @@ public class App {
 		
 		//DBCursor cursor = table.find(searchQuery);
 
+	    
+	    //CHANGES 1
+	    
 	    mongoClient.close();
 	}		
 }
